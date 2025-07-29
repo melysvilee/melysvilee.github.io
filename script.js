@@ -5,5 +5,5 @@ function concat() {
   var phraseStart2 = " ways to choose a";
   var fullSentence = phraseStart + word1 + phraseStart2 + word2;
   
-  document.getElementById("result").innerText = "Result: " + result;
+  document.getElementById("result").innerText = "Result: " + fullSentence;
 }
