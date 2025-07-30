@@ -2,6 +2,18 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
+    <style>
+    /* Custom CSS for rounded top margin in footer */
+    .custom-footer {
+      margin-top: 50px; /* Adjust the margin as needed */
+      border-top-left-radius: 100px; /* Adjust the radius as needed */
+      border-top-right-radius: 100px;
+      border-bottom-right-radius: 100px;
+      border-bottom-left-radius: 100px;/* Adjust the radius as needed */
+      background-color: #f8f9fa; /* Optional: Set a background color */
+      padding: 50px; /* Optional: Add padding for better appearance */
+    }
+  </style>
     <title>First Place</title>
     <!-- Bootstrap CSS link -->
     <link
@@ -78,8 +90,13 @@
     </div>
     
   
-      <!-- Button (Bootstrap Concept 3: Components) -->
-      <
+   
+      <div class="container">
+    <footer class="custom-footer">
+      <p style= "text-align:center;">&copy; 2023 Your Website</p>
+    </footer>
+  </div>
+    
     </div>
     <script src="portscript.js"></script>
   </body>
