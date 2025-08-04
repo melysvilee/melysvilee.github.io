@@ -17,7 +17,7 @@ toggleHomerBtn.addEventListener("click", () => {
     const newHomer = document.createElement("img");
     newHomer.id = "homer";
     newHomer.alt = "Homer";
-    newHomer.src = "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png";
+    newHomer.src = "xhttps://f4.bcbits.com/img/a0748277710_16.jpg";
     newHomer.classList.add("character");
 
     const scene = document.getElementById("scene");
