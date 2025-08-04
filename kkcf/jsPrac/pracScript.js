@@ -1,5 +1,5 @@
 const toggleHomerBtn = document.getElementById("toggleHomerBtn");
-const talkBtn = document.getElementById("talkBtn");
+const talkBtn = document.getElementById("musicBtn");
 const swapBtn = document.getElementById("swapBtn");
 const speech = document.getElementById("speech");
 const homerLaugh = document.getElementById("homerLaugh");
