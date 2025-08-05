@@ -26,7 +26,7 @@ toggleHomerBtn.addEventListener("click", () => {
     const newHomer = document.createElement("img");
     newHomer.id = "homer"; // Give it the same id as before
     newHomer.alt = "Homer"; // Alt text for accessibility
-    newHomer.src = "https://upload.wikimedia.org/wikipedia/en/0/02/Homer_Simpson_2006.png"; // Image source
+    newHomer.src = "https://tr.rbxcdn.com/180DAY-42e10eeb110fe2cec0ac3e14e836fa3b/420/420/Gear/Png/noFilter"; // Image source
     newHomer.classList.add("character"); // Add same CSS class
 
     // Insert Homer back into the scene before Marge
