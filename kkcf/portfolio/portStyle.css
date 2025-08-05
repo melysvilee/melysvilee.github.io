@@ -10,9 +10,13 @@
       padding: 50px; /* Optional: Add padding for better appearance */
       text-align: center;
     }
+      .saying
+        {
+          font-size:30px;
+        }
       .main-font{
         font-family:'Nanum Myeongjo';
-        font-size: 20px;
+
       }
       .secondary-font {
         font-family:'Nanum Gothic';
