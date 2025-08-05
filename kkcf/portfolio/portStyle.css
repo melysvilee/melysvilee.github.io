@@ -24,8 +24,7 @@
       .dark-mode {
       background-color: black;
       color: white;
+      data-bs-theme: dark;
       }
-      .btn{
-        font-family:'Nanum Myeongjo';
-      }
+      
 
