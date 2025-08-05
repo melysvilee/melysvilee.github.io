@@ -14,7 +14,7 @@
     // If light mode is on, switch to dark mode
     document.body.style.backgroundColor = "white";        // background to dark
     document.body.style.color = "black"; 
-    av.data-bs-theme = "light";
+    nav.data-bs-theme = "light";
 
     button.textContent = "Dark Mode";                      // button text changes to "light mode"
   }
