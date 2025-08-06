@@ -10,6 +10,12 @@
       padding: 50px; /* Optional: Add padding for better appearance */
       text-align: center;
     }
+    .panel-body
+    {
+      background-color: D9D9D9;
+      padding: 50px; 
+      
+    }
       .saying
         {
           font-size:40px;
