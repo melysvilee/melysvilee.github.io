@@ -16,6 +16,16 @@
       padding: 50px; 
       
     }
+    .main {
+        width: 300px;
+        height:140px;
+        min-height: 60px;
+        margin: auto;
+        background-color: D9D9D9;
+        border: 5px;
+        padding:10px;
+        word-wrap:break-word;
+    }
       .saying
         {
           font-size:40px;
