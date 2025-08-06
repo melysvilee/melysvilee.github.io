@@ -26,5 +26,18 @@
       color: white;
       
       }
+    .fade-delay-big
+    {
+    animation-delay: 0.5s;
+    }
+    @keyframes fadein
+    {  
+    0% {
+      opacity:0;
+    }
+    to {
+      opacity: 1;
+    }
+    }
       
 
