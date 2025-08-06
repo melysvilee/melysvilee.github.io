@@ -5,3 +5,5 @@
 element.classList.toggle("dark-mode");
 }
 
+const triggerEl = document.querySelector('#myTab button[data-bs-target="#profile"]')
+bootstrap.Tab.getInstance(triggerEl).show()
