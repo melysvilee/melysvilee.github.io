@@ -10,6 +10,9 @@
       padding: 50px; /* Optional: Add padding for better appearance */
      
     }
+a:active {
+      text-decoration: none;
+}
    a:link {
         text-decoration: none;
   }
