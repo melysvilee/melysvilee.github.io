@@ -13,7 +13,8 @@
 a{
       text-decoration: none;
 }
-.hover {
+
+a:hover {
   color: #4B90FF;
 }
 
