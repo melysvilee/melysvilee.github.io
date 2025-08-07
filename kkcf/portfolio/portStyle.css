@@ -12,14 +12,14 @@
     }
     .behind
       {
-           position: absolute;
-           left: 270px;
+           position: relative;
+           left: 290px;
         
       }
     .panel-body
     {
       background-color: lightgrey;
-      inline-size: 800px;
+      inline-size: 1000px;
 
       padding: 20px;
       margin: 20px;
