@@ -67,6 +67,19 @@
       {
       color: #4F0099;
       }
+.lblue
+{
+  color: #4B90FF;
+}
+.ora
+{
+  color: #FF8400;
+}
+.baby-blue
+{
+  color: #91D9FF;
+}
+
     /*=== Trigger  ===*/
 .animate {
   -webkit-animation-duration: 1s;
