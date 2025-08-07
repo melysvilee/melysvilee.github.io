@@ -1,4 +1,11 @@
-  
+.header {
+  background: center top
+    url("https://i.ibb.co/pjRxhqZb/Group-3.png");
+  display: flex;
+  height: 120px;
+  align-items: center;
+  justify-content: center;
+}  
     /* Custom CSS for rounded top margin in footer */
     .custom-footer {
       margin-top: 50px; 
