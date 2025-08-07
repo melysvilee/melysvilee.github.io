@@ -12,7 +12,7 @@
     }
     .behind
       {
-           position: relative;
+           position: absolute;
            left: 290px;
             z-index: -1;
       }
