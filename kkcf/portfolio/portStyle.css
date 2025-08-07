@@ -19,7 +19,7 @@
     .panel-body
     {
       background-color: lightgrey;
-      width: 1000px;
+      inline-size: 600px;
 
       padding: 20px;
       margin: 20px;
