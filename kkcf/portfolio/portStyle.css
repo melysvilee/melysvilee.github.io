@@ -10,6 +10,12 @@
       padding: 50px; /* Optional: Add padding for better appearance */
       text-align: center;
     }
+    .behind
+      {
+           position: absolute;
+           left: 270px;
+        
+      }
     .panel-body
     {
       background-color: lightgrey;
