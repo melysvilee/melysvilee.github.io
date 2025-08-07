@@ -10,6 +10,9 @@
       padding: 50px; /* Optional: Add padding for better appearance */
      
     }
+   a:link {
+        text-decoration: none;
+  }
     .behind
       {
            position: absolute;
