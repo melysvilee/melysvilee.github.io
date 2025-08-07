@@ -19,7 +19,7 @@
       }
     .footer
       {
-           position: relative;
+           position: absolute;
             left: 100px;
             z-index: -1;
       }
