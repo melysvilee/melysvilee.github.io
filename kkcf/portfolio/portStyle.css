@@ -10,6 +10,9 @@
           left: 45%;
           transform: translate(-50%, -50%);
         }
+p{
+        font-family:'Nanum Gothic';
+}
     /* Custom CSS for rounded top margin in footer */
     .custom-footer {
       margin-top: 50px; 
