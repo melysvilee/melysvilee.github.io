@@ -38,6 +38,11 @@ a:hover {
   color: #4B90FF;
 }
 
+.done {
+    color: #91D9FF;
+  text-decoration: line-through solid white 2px;
+}
+
 
     .behind
       {
