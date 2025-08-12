@@ -19,6 +19,4 @@ listItems.forEach((item) => {
   item.addEventListener("click", toggleDone);
 });
 
-$(document).ready(function() {
-    $(".dropdown-toggle").dropdown();
-});
+$('.dropdown-toggle').dropdown()
