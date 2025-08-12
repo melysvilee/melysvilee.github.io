@@ -5,18 +5,17 @@
 element.classList.toggle("dark-mode");
 }
 
-const test = document.getElementById("test");
+const listItems = document.querySelectorAll("li");
 
-test.addEventListener(
-  "mouseover",
-  (event) => {
-    // highlight the mouseover target
-    event.target.style.color = "orange";
+function toggleDone(e) {
+  if (!e.target.className) {
+    e.target.className = "done";
+  } else {
+    e.target.className = "";
+  }
+}
 
-    // reset the color after a short delay
-    setTimeout(() => {
-      event.target.style.color = "";
-    }, 500);
-  },
-  false,
-);
+listItems.forEach((item) => {
+  item.addEventListener("click", toggleDone);
+});
+
