@@ -5,7 +5,7 @@
 element.classList.toggle("dark-mode");
 }
 
-const listItems = document.getElementById("#sel");
+const listItems = document.querySelectorAll("#sel");
 
 function toggleDone(e) {
   if (!e.target.className) {
